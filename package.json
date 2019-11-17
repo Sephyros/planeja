@@ -1,0 +1,19 @@
+{
+  "name": "planeja",
+  "version": "0.1.0",
+  "description": "Desafio 01 do GoStack 2019",
+  "main": "index.js",
+  "repository": "https://github.com/Sephyros/planeja.git",
+  "author": "Sephyros <leo037br@hotmail.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
